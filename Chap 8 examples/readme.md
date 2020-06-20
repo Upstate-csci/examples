@@ -7,6 +7,5 @@
 | JukeBox     | Demonstrates the use of a combo box and audio clips.                                       |
 | LetterCount | Demonstrates the relationship between arrays and strings.                                  |
 | Movies      | Demonstrates the use of an array of DVD movie objects.                                     |
-
-- NameTags - Demonstrates the use of command line arguments.
-- Primes - Demonstrates the use of an initializer list for an array.
+| NameTags    | Demonstrates the use of command line arguments.                                            | 
+| Primes      | Demonstrates the use of an initializer list for an array. |
