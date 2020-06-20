@@ -1,3 +1,4 @@
+
 | BasicArray | Demonstrates basic array declaration and use. |
 | Dots | Demonstrates the use of an array of Color objects and the capture of a double mouse click. |
 | GradeRange | Demonstrates the use of an array of Grade objects. |
